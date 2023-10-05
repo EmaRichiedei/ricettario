@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ricette>
+
+
+<ricetta titolo="Pasta all'amatriciana">
+
+
+<ingredienti>
+
+
+<ingrediente>
+
+<alimento>Pasta </alimento>
+
+<quantita um="g">500</quantita>
+
+</ingrediente>
+
+
+<ingrediente>
+
+<alimento>Pomodoro </alimento>
+
+<quantita um="g">250</quantita>
+
+</ingrediente>
+
+</ingredienti>
+
+</ricetta>
+
+</ricette>
